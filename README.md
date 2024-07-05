@@ -1,1 +1,1 @@
-clase de informacion
+Clase de información
